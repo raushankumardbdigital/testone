@@ -1,1 +1,2 @@
-console.log('Rauhsan');
+var name = 'Raushan';
+console.log(name);
